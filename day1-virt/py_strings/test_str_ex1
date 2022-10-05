@@ -1,0 +1,7 @@
+name1 = "Mickey Mouse"
+name2 = "Donald Duck"
+name3 = "Minnie Mouse"
+
+name4 = input("Please enter a name: ")
+
+print(name4)
