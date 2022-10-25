@@ -12,3 +12,5 @@ for line in data.splitlines():
         print(f"\n\nSerial Number: {serial_number}\n\n")
 
 f.close()
+
+
